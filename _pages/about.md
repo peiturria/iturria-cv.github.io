@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there, I'm Pedro Iturria "
+title: "👋 Hi there, I'm Pedro Iturria"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-🧔🏻I'm a final year PhD Candidate at University of Ottawa. 
+🧔🏻I'm a final year graduate at University of Ottawa. 
+
+🥸 My research interests include several topics that intertwine Machine Learning and Next-Generation Wireless Networks
+
+📔 I'm currently at my last year (4th Year! 💪) of my PhD in the field AI-Enabled Next Generation Wireless Networks.
 
 A data-driven personal website
 ======
