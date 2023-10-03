@@ -14,11 +14,13 @@ redirect_from:
 
 📔 I'm currently at my last year (4th Year! 💪) of my PhD in the field AI-Enabled Next Generation Wireless Networks.
 
-News
+News (Only 2023)
 ======
 
-1. (Jul 2023) We received an acepted paper in PIMRC'23 in Toronto, Canada
-1. (Jun 2023) We received two best papers awards in ICC'23 in Rome, Italy. 
+1. **(Aug 4th, 2023)** Accepted paper in IEEE Globecom'23 in Kuala Lumpur, Malysia  
+1. **(Jun 26th, 2023)** Another acepted paper in MASS'23 in Toronto, Canada
+1. **(Jun 14th, 2023)** Another acepted paper in IEEE PIMRC'23 in Toronto, Canada
+1. **(Jun 2023)** 🏆🏆 Received two best papers awards in IEEE ICC'23 in Rome, Italy. 
 
 Getting started
 ======
