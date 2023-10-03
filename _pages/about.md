@@ -17,8 +17,8 @@ redirect_from:
 News
 ======
 
--Jul 2023. We received an acepted paper in PIMRC'23 in Toronto, Canada
--Jun 2023. We received two best papers awards in ICC'23 in Rome, Italy. 
+1. (Jul 2023) We received an acepted paper in PIMRC'23 in Toronto, Canada
+1. (Jun 2023) We received two best papers awards in ICC'23 in Rome, Italy. 
 
 Getting started
 ======
