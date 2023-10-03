@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Pedro Iturria's homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Ottawa, ON, Canada"
-  employer         :
+  employer         : "University of Ottawa"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=53kq34UAAAAJ&hl=en"
   email            :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/pedro-iturria/"
   orcid            : "https://orcid.org/0000-0002-8757-2639"
   pinterest        :
   soundcloud       :
