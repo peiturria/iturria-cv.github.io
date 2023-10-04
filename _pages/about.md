@@ -37,6 +37,12 @@ Research Experience
 - Applied AI in Open RAN.
 - Reinforcement learning, Multi-agent Systems, supervised learning, unsupervised learning, distributed learning (split, federated), sequential and parallel transfer learning, meta-learning.
 
+1. **(Jan 2017 - Jan 2019)** MSc. Reasearcher at Instituto Politcnico Nacional.
+
+*Graduate research assistant working on Color Science related topics to correct color interpretation in commercial cameras used to detect anomalyies in cancer tissue*
+- Developed a software and measuring settings using spectrometry and Machine Learning to correct color aberrations in commercial cameras. 
+- **(Sept-Oct, 2018)** Visited the Computational Spectral Imaging Research Group as Spectarl Imaging Researcher in University of Eastern Finland Inc., Joensuu, Finland
+
 Industry Experience
 ------
 1.  **(Jan-May, 2023)** Cloud RAN Baseband Developer. Ericsson Inc, Ottawa, ON, Canada.
