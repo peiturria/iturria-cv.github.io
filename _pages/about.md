@@ -42,6 +42,10 @@ Industry Experience
 
 Skills
 ------
-1. 
-1.
-1.
+- Python, C++, PHP, HTML, CSS, Julia, Bash, Linux, Automation, Networking, Wireless Simulators, ns-3, Ommnet++, Git, Jenkins, Latex.
+
+Languages
+------
+English (Professional Profeciency), Spaninsh (Native), French (Basic Proficiency)
+
+
