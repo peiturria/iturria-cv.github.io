@@ -57,7 +57,7 @@ Skills
 ------
 - **Programming Languages**: Python, C++, PHP, HTML, CSS, SQL Julia, Bash, 
 - **Programming Frameworks**: Pytorch, OpenCV, Tensorflow, Pandas, Numpy, Weights and Biases, Linux, Git, Jenkins, Latex, CodeIgniter, Laravel, Bootstrap, Matplotlib, Seaborn. 
-- **Technologies**: Test Automation, Linux, Networking, Wireless Simulators, ns-3, Omnet++ 
+- **Technologies**: Test Automation, Linux, Networking, Wireless Simulators, ns-3, Omnet++, Reinforcement Learning.
 
 Languages
 ------
