@@ -25,13 +25,14 @@ News (2023~)
 Research Experience
 ------
 1. **(Sept 2020 - Jun 2024)** PhD Reasearcher collaborating with Mitacs/ Ciena/ Ericsson/ NetExperience, uOttawa (NETCORE Lab) and University of Bologna.
+
 *Graduate research assistant working on Mitacs projects with industry partners to develop innovative solutions in AI-Enabled Next Generation Wireless Networks. Topics include:*
 - Load Balancing and Traffic Steering in 5G and beyond.
 - Handover in Multi-RAT Networks (4G & 5G).
 - Spatial Reuse in Next Generation Wi-Fi Networks (Wi-Fi 6 and 7)
 - Access Point and Channel Selection in Multi-Link Operation Wi-Fi 7 networks
 - Optimization of XR traffic in 5G NR.
-- Uplink Scheduling in Federated Learning
+- Uplink Scheduling in Federated Learning.
 - Beam management in 5G NR.
 - Applied AI in Open RAN.
 - Reinforcement learning, Multi-agent Systems, supervised learning, unsupervised learning, distributed learning (split, federated), sequential and parallel transfer learning, meta-learning.
@@ -46,6 +47,6 @@ Skills
 
 Languages
 ------
-English (Professional Profeciency), Spaninsh (Native), French (Basic Proficiency)
+- English (Professional Profeciency), Spaninsh (Native), French (Basic Proficiency)
 
 
