@@ -41,6 +41,12 @@ Industry Experience
 ------
 1.  **(Jan-May, 2023)** Cloud RAN Baseband Developer. Ericsson Inc, Ottawa, ON, Canada.
 
+Education
+------
+1. **(2020-2024)** Doctorate in Electrical and Computer Engineering, NetCore Lab,  University of Ottawa, ON, Canada.  
+1. **(2017-2019)** MSc. in Electronics, Instituto Politecnico Nacional, Biophotonics Lab, Mexico City, Mexico.
+1. **(2010-2015)** BSc. in Telecommunications and Electronics, Universidad Central Marta Abreu de las Villas, Santa Clara, Cuba.
+
 Skills
 ------
 - Python, C++, PHP, HTML, CSS, Julia, Bash, Linux, Automation, Networking, Wireless Simulators, ns-3, Ommnet++, Git, Jenkins, Latex.
