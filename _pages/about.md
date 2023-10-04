@@ -49,10 +49,12 @@ Education
 
 Skills
 ------
-- Python, C++, PHP, HTML, CSS, Julia, Bash, Linux, Automation, Networking, Wireless Simulators, ns-3, Ommnet++, Git, Jenkins, Latex.
+- **Programming Languages**: Python, C++, PHP, HTML, CSS, SQL Julia, Bash, 
+- **Programming Frameworks**: Pytorch, OpenCV, Tensorflow, Pandas, Numpy, Weights and Biases, Linux, Git, Jenkins, Latex, CodeIgniter, Laravel, Bootstrap, Matplotlib, Seaborn. 
+- **Technologies**: Test Automation, Linux, Networking, Wireless Simulators, ns-3, Omnet++ 
 
 Languages
 ------
-- English (Professional Profeciency), Spaninsh (Native), French (Basic Proficiency)
+- English (Professional Profeciency), Spanish (Native), French (Basic Proficiency)
 
 
