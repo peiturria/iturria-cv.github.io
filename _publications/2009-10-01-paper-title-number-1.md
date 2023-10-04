@@ -1,15 +1,19 @@
 ---
-title: "Paper Title Number 1"
+title: "Meta-Bandit: Spatial Reuse Adaptation via Meta-Learning in Distributed Wi-Fi
+802.11ax"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'IEEE 802.11ax introduces several amendments to previous standards with a special interest in spatial reuse (SR) to respond to dense user scenarios with high demanding services. In dynamic scenarios with more than one Access Point, the adjustment of joint Transmission Power (TP) and Clear Channel Assessment (CCA) threshold remains a challenge. With the aim of mitigating Quality of Service (QoS) degradation, we introduce a solution that builds on meta-learning and multi-arm bandits. Simulation results show that the proposed solution can adapt with an average of 1250 fewer environment steps and 72% average improvement in terms of fairness and starvation than a transfer learning baseline.'
+date: 2023-04-23
+venue: 'IEEE Networking Letters'
+paperurl: 'https://ieeexplore.ieee.org/document/10105943'
+citation: 'P. E. Iturria-Rivera, M. Chenier, B. Herscovici, B. Kantarci and M. Erol-Kantarci,
+"Meta-Bandit: Spatial Reuse Adaptation via Meta-Learning in Distributed Wi-Fi
+802.11ax", IEEE Networking Letters, Apr. 2023.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+IEEE 802.11ax introduces several amendments to previous standards with a special interest in spatial reuse (SR) to respond to dense user scenarios with high demanding services. In dynamic scenarios with more than one Access Point, the adjustment of joint Transmission Power (TP) and Clear Channel Assessment (CCA) threshold remains a challenge. With the aim of mitigating Quality of Service (QoS) degradation, we introduce a solution that builds on meta-learning and multi-arm bandits. Simulation results show that the proposed solution can adapt with an average of 1250 fewer environment steps and 72% average improvement in terms of fairness and starvation than a transfer learning baseline.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://ieeexplore.ieee.org/document/10105943)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: P. E. Iturria-Rivera, M. Chenier, B. Herscovici, B. Kantarci and M. Erol-Kantarci, "Meta-Bandit: Spatial Reuse Adaptation via Meta-Learning in Distributed Wi-Fi
+802.11ax", IEEE Networking Letters, Apr. 2023.
