@@ -87,7 +87,7 @@ author:
   employer         : "University of Ottawa"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=53kq34UAAAAJ&hl=en"
-  email            :
+  email            : "peiturria@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Pedro-Iturria-Rivera"
   uri              :
   bitbucket        :
@@ -181,9 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+  #portfolio:
+  #  output: true
+  #  permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/

@@ -23,9 +23,10 @@ News (2023~)
 1. **(Jun 2023)** 🏆🏆 Received two best papers awards in IEEE ICC'23 in Rome, Italy. 
 
 Research Experience
-======
+------
+
 
 
 Industry Experience
 ------
-1.  **(Jan-May, 2023)** Cloud RAN Baseband Developer: 
+1.  **(Jan-May, 2023)** Cloud RAN Baseband Developer. Ericsson Inc, Ottawa, ON, Canada.
