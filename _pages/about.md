@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![ICC award ceremony](/images/photo1.jpeg){:.align-right witdth="300px"}
+![ICC award ceremony](/images/photo1.png){:.align-right witdth="300px"}
 🧔🏻I'm a final year graduate at University of Ottawa. 
 
 🥸 My research interests include several topics that intertwine Machine Learning and Next-Generation Wireless Networks.
