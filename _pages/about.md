@@ -42,17 +42,25 @@ Research Experience
 
 *Graduate research assistant working on Color Science related topics to correct color interpretation in commercial cameras used to detect anomalyies in cancer tissue*
 - Developed a software and measuring settings using spectrometry and Machine Learning to correct color aberrations in commercial cameras. 
-- **(Sept-Oct, 2018)** Visited the Computational Spectral Imaging Research Group as Spectarl Imaging Researcher in University of Eastern Finland Inc., Joensuu, Finland
+- **(Sept-Oct, 2018)** Visited the Computational Spectral Imaging Research Group as Spectral Imaging Researcher in University of Eastern Finland Inc., Joensuu, Finland
 
-Industry Experience
+Work Experience
 ------
 1.  **(Jan-May, 2023)** Cloud RAN Baseband Developer. Ericsson Inc, Ottawa, ON, Canada.
+1.  **(Sep 2015 - Jan 2017)** Main IT Security Specialist and professor, UCLV, Cuba.
+1.  **(Sep 2014 - Jan 2017)** Full Stack Web Developer, UCLV, Cuba.
 
 Education
 ------
 1. **(2020-2024)** Doctorate in Electrical and Computer Engineering, NetCore Lab,  University of Ottawa, ON, Canada.  
 1. **(2017-2019)** MSc. in Electronics, Instituto Politecnico Nacional, Biophotonics Lab, Mexico City, Mexico.
 1. **(2010-2015)** BSc. in Telecommunications and Electronics, Universidad Central Marta Abreu de las Villas, Santa Clara, Cuba.
+
+Scholarships
+------
+1. **(2020-2024)** International Doctoral Scholarship – uOttawa, Canada.
+1. **(2021-2024)** Admission Scholarship - uOttawa, Canada.
+1. **(2017-2019)** National Scholarship CONACYT - IPN, Mexico.
 
 Skills
 ------
