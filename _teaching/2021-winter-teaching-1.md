@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant - CEG 4186 Wireless Networks "
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course (4th - Year)"
+permalink: /teaching/2021-winter-teaching-1
+venue: "University of Ottawa, Department of Electrical and Computer Engineering"
+date: 2021-01-01
+location: "Ottawa, Canada"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

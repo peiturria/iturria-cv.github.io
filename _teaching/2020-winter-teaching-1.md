@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant - ECE3242 Computer Architecture I "
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2020-winter-teaching-1
+venue: "University of New Brunswick, Department of Electrical and Computer Engineering"
+date: 2020-01-01
+location: "Fredericton, Canada"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
