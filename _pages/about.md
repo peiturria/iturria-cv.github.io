@@ -25,7 +25,7 @@ News (2023~)
 
 Research Experience
 ------
-1. **(Sept 2020 - Jun 2024)** PhD Reasearcher collaborating with Mitacs/ Ciena/ Ericsson/ NetExperience, uOttawa (NETCORE Lab) and University of Bologna.
+1. **(Sept 2020 - Jun 2024)** PhD Researcher collaborating with Mitacs/ Ciena/ Ericsson/ NetExperience, uOttawa (NETCORE Lab) and University of Bologna.
 
 *Graduate research assistant working on Mitacs projects with industry partners to develop innovative solutions in AI-Enabled Next Generation Wireless Networks. Topics include:*
 - Load Balancing and Traffic Steering in 5G and beyond.
