@@ -17,10 +17,11 @@ redirect_from:
 News (2023~)
 ======
 
-1. **(Aug 4th, 2023)** Accepted paper in IEEE Globecom'23 in Kuala Lumpur, Malysia  
-1. **(Jun 26th, 2023)** Another acepted paper in IEEE MASS'23 in Toronto, Canada
-1. **(Jun 14th, 2023)** Another acepted paper in IEEE PIMRC'23 in Toronto, Canada
+1. **(Aug 4th, 2023)** Accepted paper in IEEE Globecom'23 in Kuala Lumpur, Malaysia  
+1. **(Jun 26th, 2023)** Accepted paper in IEEE MASS'23 in Toronto, Canada
+1. **(Jun 14th, 2023)** Accepted paper in IEEE PIMRC'23 in Toronto, Canada
 1. **(Jun 2023)** 🏆🏆 Received two best papers awards in IEEE ICC'23 in Rome, Italy. 
+1. **(Jan 2023)** 4 papers accepted in IEEE ICC'23.
 
 Research Experience
 ------
@@ -61,6 +62,8 @@ Skills
 
 Languages
 ------
-- English (Professional Profeciency), Spanish (Native), French (Basic Proficiency)
+- English (Professional Proficiency)
+- Spanish (Native)
+- French (Basic Proficiency)
 
 
