@@ -38,7 +38,7 @@ Research Experience
 - Applied AI in Open RAN.
 - Reinforcement learning, Multi-agent Systems, supervised learning, unsupervised learning, distributed learning (split, federated), sequential and parallel transfer learning, meta-learning.
 
-1. **(Jan 2017 - Jan 2019)** MSc. Reasearcher at Instituto Politcnico Nacional.
+1. **(Jan 2017 - Jan 2019)** MSc. Researcher at Instituto Politcnico Nacional.
 
 *Graduate research assistant working on Color Science related topics to correct color interpretation in commercial cameras used to detect anomalyies in cancer tissue*
 - Developed a software and measuring settings using spectrometry and Machine Learning to correct color aberrations in commercial cameras. 
