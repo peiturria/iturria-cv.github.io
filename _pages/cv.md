@@ -41,7 +41,9 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+
+
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -53,7 +55,14 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+
+Patents
+======
+  <ul>{% for post in site.patents %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
